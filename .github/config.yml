@@ -7,6 +7,5 @@ newPRWelcomeComment: >
   
   We get a lot of pull requests and we'll do our best to get back to you as soon as we can. 😄
 
-
 # *OPTIONAL* Label to be added to Issues and Pull Requests to first time contributor
-requestInfoLabelToAdd: good first issue
+requestInfoLabelToAdd: first-time-contributor
