@@ -23,3 +23,6 @@ models:
                      'Private room',
                      'Shared room',
                      'Hotel room']
+    - name: minimum_nghts
+      tests: 
+        - positive_value
