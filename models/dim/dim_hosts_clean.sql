@@ -21,5 +21,8 @@ SELECT
 FROM
  src_hosts
 
- dim_hosts_clean
- dim_listings_clean
+limit 100
+
+
+-- dim_hosts_clean
+-- dim_listings_clean
