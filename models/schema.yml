@@ -24,7 +24,7 @@ models:
                       'Shared room', 
                       'Hotel room']
       - name: minimum_nights
-        description: '{{ doc("dim_listing_cleansed__minimum_nights") }}'
+        description: '{{ doc("dim_listing_clean_minimum_nights") }}'
         tests:
           - positive_value
   - name: dim_hosts_clean
@@ -56,4 +56,4 @@ models:
       - name: review_sentiment
         tests:
           - accepted_values:
-            values: ['positive', 'neutral', 'negative']
+              values: ['positive', 'neutral', 'negative']

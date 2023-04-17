@@ -4,4 +4,4 @@
         {{ col.column }} IS NULL OR
     {% endfor %}
     FALSE
-{% endmacro = 1 %}
+{% endmacro %}

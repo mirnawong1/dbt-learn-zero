@@ -1,4 +1,4 @@
-{% docs dim_listing_clean_minimum nights %}
+{% docs dim_listing_clean_minimum_nights %}
 
 Minimum number of nights required to rent this property
 
