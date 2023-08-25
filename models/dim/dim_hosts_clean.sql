@@ -20,3 +20,9 @@ SELECT
  updated_at
 FROM
  src_hosts
+
+limit 100
+
+
+-- dim_hosts_clean
+-- dim_listings_clean
