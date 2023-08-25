@@ -1,0 +1,3 @@
+# dbt_cloud.yml
+
+project-id: 184994 # whatever your project ID is in dbt Cloud - copy from URL
