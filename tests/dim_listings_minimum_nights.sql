@@ -1,5 +1,5 @@
-SELECT *
-FROM
+select *
+from
     {{ ref('dim_listings_clean') }}
-WHERE minimum_nights < 1
-LIMIT 10
+where minimum_nights < 1
+limit 10
